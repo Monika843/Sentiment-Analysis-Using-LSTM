@@ -1,5 +1,3 @@
-# Sentiment-Analysis-Using-LSTM
-A deep learning-based sentiment analysis project using Long Short-Term Memory (LSTM) to classify IMDb movie reviews as positive or negative. Built with Python, TensorFlow, Keras, and Scikit-learn.
 # 🎬 Sentiment Analysis Using Long Short-Term Memory (LSTM)
 
 A Deep Learning-based Natural Language Processing (NLP) project that classifies IMDb movie reviews as **Positive** or **Negative** using a Long Short-Term Memory (LSTM) neural network.

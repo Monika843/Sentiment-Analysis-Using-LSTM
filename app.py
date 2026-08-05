@@ -6,10 +6,10 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 # Load Model
-model = load_model("models/lstm_model.keras")
+model = load_model("lstm_model.keras")
 
 # Load Tokenizer
-with open("models/tokenizer.pkl", "rb") as f:
+with open("tokenizer.pkl", "rb") as f:
     tokenizer = pickle.load(f)
 
 MAX_LEN = 100

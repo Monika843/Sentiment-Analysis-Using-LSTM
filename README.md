@@ -114,7 +114,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Project
+##  Run the Project
 
 Train the model
 
@@ -124,7 +124,7 @@ python train.py
 
 ---
 
-## 💬 Example Prediction
+##  Example Prediction
 
 Input
 
@@ -152,7 +152,7 @@ Output
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 ```
 Input Review
@@ -207,11 +207,9 @@ Positive / Negative
 
 ---
 
-## Contributing
+## Project Deployment:
 
-Contributions are welcome. Feel free to fork this repository and submit a pull request with improvements.
-
----
+Streamlit link:https://sentiment-analysis-using-lstm-dtl8nojvolpjyedj5aehgw.streamlit.app/
 
 ## License
 
@@ -229,4 +227,4 @@ This project is licensed under the MIT License.
 
 ---
 
-⭐ If you found this project useful, consider giving it a Star!
+If you found this project useful, consider giving it a Star!
